@@ -1,1 +1,1 @@
-<img src="" alt="">
+<img src="../ODEV3/odev3.png" alt="Odev resim">
